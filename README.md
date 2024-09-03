@@ -1,1 +1,1 @@
-# yarjah--hands-on-lab
+# yarjah-hands-on-lab
